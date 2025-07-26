@@ -1,0 +1,15 @@
+SORT January Date ASC
+SORT June Date DESC
+SORT April Amount ASC FILTER Income
+SEARCH Taxi
+SORT March Category DESC FILTER Expense
+SEARCH Bonus FILTER Income
+SORT February Amount DESC FILTER Expense
+SORT November Category ASC
+SEARCH Coffee FILTER Expense
+SEARCH Rent
+SEARCH Freelance
+SEARCH Pizza FILTER Expense
+SUMMARY October
+SUMMARY January
+SUMMARY December
