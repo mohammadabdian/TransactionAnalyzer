@@ -1,0 +1,89 @@
+2024-11-01 | Income | Freelance | 1381.09 | Website design payment completed
+2024-11-01 | Expense | Transport | 184.61 | Cab fare after night out
+2024-11-01 | Expense | Dining Out | 83.75 | Sushi dinner at Japanese restaurant
+2024-11-01 | Expense | Dining Out | 64.11 | Street food snacks
+2024-11-01 | Expense | Dining Out | 52.69 | Desserts at pastry shop
+2024-11-01 | Income | Business Profits | 415.82 | Rental income from property
+2024-11-02 | Expense | Entertainment | 62.9 | Karaoke night with friends
+2024-11-02 | Expense | Rent & Utilities | 433.41 | Monthly rent payment for apartment
+2024-11-02 | Expense | Dining Out | 19.32 | Ice cream from parlor
+2024-11-03 | Expense | Groceries | 285.7 | Purchased cleaning supplies
+2024-11-03 | Expense | Entertainment | 237.12 | Dance class fee
+2024-11-04 | Expense | Transport | 82.13 | Parking fee at mall
+2024-11-04 | Expense | Entertainment | 175.96 | Dance class fee
+2024-11-05 | Expense | Dining Out | 65.0 | Desserts at pastry shop
+2024-11-05 | Expense | Rent & Utilities | 568.68 | Electricity bill for January
+2024-11-06 | Expense | Rent & Utilities | 1157.98 | Landline phone bill
+2024-11-06 | Expense | Rent & Utilities | 1886.98 | Trash collection service
+2024-11-06 | Expense | Transport | 352.82 | Train ticket to nearby city
+2024-11-06 | Expense | Groceries | 234.07 | Bought vegetables and fruits
+2024-11-07 | Expense | Entertainment | 282.46 | Karaoke night with friends
+2024-11-07 | Expense | Transport | 318.28 | Monthly metro pass
+2024-11-07 | Expense | Rent & Utilities | 633.37 | TV cable subscription
+2024-11-08 | Expense | Transport | 382.5 | Cab fare after night out
+2024-11-09 | Income | Freelance | 1262.5 | Translation services fee
+2024-11-09 | Expense | Dining Out | 60.43 | Fast food lunch at McDonald's
+2024-11-09 | Expense | Transport | 78.8 | Taxi ride to office
+2024-11-10 | Expense | Rent & Utilities | 487.79 | Property maintenance fee
+2024-11-10 | Income | Freelance | 992.79 | Translation services fee
+2024-11-10 | Expense | Dining Out | 135.18 | Breakfast at bakery
+2024-11-11 | Expense | Transport | 418.2 | Cab fare after night out
+2024-11-11 | Expense | Rent & Utilities | 1216.23 | Mobile phone postpaid bill
+2024-11-11 | Expense | Transport | 415.47 | Motorbike fuel refill
+2024-11-11 | Expense | Transport | 258.66 | Uber ride to airport
+2024-11-11 | Expense | Rent & Utilities | 491.3 | Mobile phone postpaid bill
+2024-11-13 | Expense | Dining Out | 45.57 | Desserts at pastry shop
+2024-11-13 | Expense | Groceries | 211.61 | Dairy products and eggs
+2024-11-14 | Expense | Transport | 80.41 | Oil change at auto center
+2024-11-14 | Expense | Transport | 182.09 | Toll charges for highway
+2024-11-15 | Expense | Groceries | 176.25 | Spices and condiments
+2024-11-15 | Income | Salary | 1655.98 | End of year bonus received
+2024-11-15 | Expense | Transport | 82.21 | Oil change at auto center
+2024-11-16 | Expense | Dining Out | 107.31 | Ice cream from parlor
+2024-11-17 | Expense | Groceries | 105.09 | Bulk purchase of rice and pasta
+2024-11-17 | Expense | Rent & Utilities | 1203.82 | Internet subscription fee
+2024-11-17 | Income | Salary | 2919.55 | Commission on sales received
+2024-11-18 | Expense | Dining Out | 122.77 | Desserts at pastry shop
+2024-11-18 | Expense | Transport | 105.51 | Parking fee at mall
+2024-11-18 | Expense | Rent & Utilities | 1063.95 | Natural gas bill payment
+2024-11-18 | Expense | Groceries | 198.65 | Baby food and supplies
+2024-11-18 | Expense | Entertainment | 66.17 | Art museum entry ticket
+2024-11-18 | Income | Freelance | 1117.78 | Photography gig payment
+2024-11-18 | Expense | Rent & Utilities | 1575.6 | Property maintenance fee
+2024-11-18 | Expense | Rent & Utilities | 613.03 | Water bill settlement
+2024-11-19 | Expense | Transport | 308.89 | Fuel refill at gas station
+2024-11-19 | Expense | Entertainment | 337.64 | Monthly Netflix subscription
+2024-11-19 | Expense | Dining Out | 112.8 | Breakfast at bakery
+2024-11-19 | Expense | Dining Out | 137.36 | Pizza night with family
+2024-11-20 | Expense | Transport | 446.81 | Taxi ride to office
+2024-11-20 | Expense | Rent & Utilities | 910.74 | Sewage services charge
+2024-11-21 | Expense | Rent & Utilities | 1193.9 | Sewage services charge
+2024-11-21 | Expense | Transport | 162.82 | Taxi ride to office
+2024-11-21 | Expense | Dining Out | 147.0 | Sushi dinner at Japanese restaurant
+2024-11-21 | Expense | Dining Out | 78.8 | Coffee at local cafe
+2024-11-22 | Expense | Dining Out | 28.17 | Late night snacks at diner
+2024-11-22 | Expense | Rent & Utilities | 686.63 | Internet subscription fee
+2024-11-22 | Expense | Dining Out | 53.26 | Breakfast at bakery
+2024-11-23 | Expense | Transport | 251.6 | Parking fee at mall
+2024-11-23 | Expense | Dining Out | 93.33 | Sushi dinner at Japanese restaurant
+2024-11-24 | Expense | Rent & Utilities | 908.88 | Water bill settlement
+2024-11-24 | Expense | Groceries | 259.91 | Meat and fish from butcher shop
+2024-11-24 | Expense | Entertainment | 56.26 | Amusement park entry fee
+2024-11-24 | Expense | Transport | 144.13 | Bus ticket for daily commute
+2024-11-24 | Expense | Transport | 486.85 | Bus ticket for daily commute
+2024-11-25 | Expense | Entertainment | 122.71 | Video game download
+2024-11-25 | Income | Investments | 947.85 | Mutual fund return payout
+2024-11-25 | Expense | Entertainment | 308.29 | Dance class fee
+2024-11-26 | Expense | Transport | 55.03 | Tire replacement
+2024-11-26 | Expense | Transport | 36.77 | Cab fare after night out
+2024-11-26 | Expense | Transport | 202.78 | Cab fare after night out
+2024-11-27 | Expense | Rent & Utilities | 1700.19 | Natural gas bill payment
+2024-11-27 | Expense | Rent & Utilities | 1257.35 | Internet subscription fee
+2024-11-28 | Expense | Transport | 181.49 | Bike rental fee
+2024-11-29 | Expense | Transport | 408.37 | Fuel refill at gas station
+2024-11-29 | Expense | Transport | 369.0 | Oil change at auto center
+2024-11-29 | Expense | Transport | 497.91 | Bike rental fee
+2024-11-30 | Expense | Rent & Utilities | 1874.07 | Water bill settlement
+2024-11-30 | Expense | Transport | 411.31 | Bus ticket for daily commute
+2024-11-30 | Income | Business Profits | 417.4 | Profit from online store sales
+2024-11-30 | Expense | Entertainment | 375.05 | Bookstore purchase of novels

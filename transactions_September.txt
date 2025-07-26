@@ -1,0 +1,91 @@
+2024-09-01 | Expense | Dining Out | 122.92 | Romantic dinner at steakhouse
+2024-09-02 | Expense | Transport | 378.84 | Monthly metro pass
+2024-09-02 | Expense | Transport | 459.23 | Fuel refill at gas station
+2024-09-02 | Expense | Rent & Utilities | 844.53 | Electricity bill for January
+2024-09-03 | Expense | Entertainment | 354.93 | Monthly Netflix subscription
+2024-09-04 | Expense | Dining Out | 85.32 | Dinner at Italian restaurant
+2024-09-04 | Expense | Entertainment | 476.5 | Music streaming subscription
+2024-09-05 | Expense | Dining Out | 145.15 | Late night snacks at diner
+2024-09-05 | Expense | Transport | 153.29 | Fuel refill at gas station
+2024-09-05 | Expense | Entertainment | 207.44 | Amusement park entry fee
+2024-09-05 | Expense | Groceries | 180.24 | Supermarket shopping
+2024-09-05 | Expense | Transport | 431.9 | Oil change at auto center
+2024-09-06 | Expense | Dining Out | 37.21 | Coffee at local cafe
+2024-09-06 | Expense | Groceries | 288.31 | Bought vegetables and fruits
+2024-09-07 | Expense | Groceries | 247.93 | Milk and bread from local store
+2024-09-07 | Expense | Rent & Utilities | 1779.2 | Internet subscription fee
+2024-09-07 | Expense | Rent & Utilities | 1171.34 | Water bill settlement
+2024-09-07 | Expense | Dining Out | 131.42 | Coffee at local cafe
+2024-09-08 | Income | Gifts & Donations | 1212.46 | Charity donation from anonymous donor
+2024-09-09 | Expense | Entertainment | 138.68 | Music streaming subscription
+2024-09-09 | Expense | Rent & Utilities | 1536.62 | Monthly rent payment for apartment
+2024-09-10 | Expense | Groceries | 37.37 | Household necessities from hypermarket
+2024-09-10 | Expense | Dining Out | 20.43 | Coffee at local cafe
+2024-09-10 | Expense | Entertainment | 188.67 | Subscription to online magazine
+2024-09-10 | Expense | Rent & Utilities | 1201.85 | Property maintenance fee
+2024-09-10 | Expense | Groceries | 178.72 | Cereal and breakfast items
+2024-09-10 | Expense | Groceries | 200.75 | Weekly groceries restock
+2024-09-12 | Expense | Entertainment | 472.2 | Dance class fee
+2024-09-12 | Expense | Transport | 175.96 | Parking fee at mall
+2024-09-12 | Income | Salary | 5041.01 | End of year bonus received
+2024-09-12 | Expense | Rent & Utilities | 693.97 | Natural gas bill payment
+2024-09-12 | Expense | Rent & Utilities | 1180.4 | Heating system maintenance
+2024-09-12 | Expense | Dining Out | 133.42 | Dinner at Italian restaurant
+2024-09-12 | Income | Freelance | 2043.85 | Freelance project payment from client
+2024-09-13 | Expense | Rent & Utilities | 1658.0 | Natural gas bill payment
+2024-09-13 | Expense | Rent & Utilities | 342.0 | Property maintenance fee
+2024-09-13 | Expense | Entertainment | 326.09 | Karaoke night with friends
+2024-09-13 | Expense | Rent & Utilities | 1546.49 | Natural gas bill payment
+2024-09-14 | Expense | Dining Out | 84.75 | Late night snacks at diner
+2024-09-14 | Income | Investments | 135.38 | Interest from savings account
+2024-09-14 | Income | Freelance | 2123.25 | Photography gig payment
+2024-09-14 | Expense | Rent & Utilities | 1036.14 | Monthly rent payment for apartment
+2024-09-14 | Expense | Transport | 396.05 | Motorbike fuel refill
+2024-09-14 | Expense | Groceries | 180.58 | Organic produce from farmers market
+2024-09-15 | Expense | Groceries | 63.04 | Cereal and breakfast items
+2024-09-15 | Expense | Rent & Utilities | 1861.63 | Internet subscription fee
+2024-09-15 | Expense | Groceries | 40.51 | Organic produce from farmers market
+2024-09-15 | Expense | Groceries | 208.07 | Snacks and beverages
+2024-09-17 | Expense | Rent & Utilities | 1507.6 | Heating system maintenance
+2024-09-17 | Expense | Dining Out | 41.21 | Street food snacks
+2024-09-17 | Income | Investments | 421.99 | ETF dividend credited
+2024-09-18 | Expense | Transport | 366.58 | Uber ride to airport
+2024-09-18 | Expense | Groceries | 180.36 | Baby food and supplies
+2024-09-18 | Expense | Groceries | 78.81 | Dairy products and eggs
+2024-09-19 | Income | Gifts & Donations | 1454.83 | Cashback reward from online store
+2024-09-20 | Income | Business Profits | 1310.78 | Subscription service income
+2024-09-20 | Expense | Dining Out | 96.19 | Ice cream from parlor
+2024-09-20 | Expense | Rent & Utilities | 1044.05 | Mobile phone postpaid bill
+2024-09-20 | Expense | Transport | 366.23 | Parking fee at mall
+2024-09-21 | Expense | Rent & Utilities | 1615.09 | Landline phone bill
+2024-09-21 | Income | Salary | 4587.2 | Monthly paycheck from company
+2024-09-21 | Expense | Rent & Utilities | 1186.33 | Natural gas bill payment
+2024-09-21 | Expense | Entertainment | 450.64 | Monthly Netflix subscription
+2024-09-21 | Expense | Groceries | 64.06 | Milk and bread from local store
+2024-09-22 | Expense | Entertainment | 21.29 | Video game download
+2024-09-22 | Income | Business Profits | 1291.94 | Subscription service income
+2024-09-22 | Expense | Entertainment | 231.42 | Concert ticket for live band
+2024-09-22 | Expense | Rent & Utilities | 1524.43 | Home insurance premium
+2024-09-22 | Expense | Transport | 93.2 | Cab fare after night out
+2024-09-22 | Expense | Groceries | 46.96 | Pet food and supplies
+2024-09-23 | Expense | Dining Out | 64.26 | Food delivery from Uber Eats
+2024-09-23 | Expense | Transport | 104.18 | Fuel refill at gas station
+2024-09-24 | Expense | Transport | 222.83 | Oil change at auto center
+2024-09-24 | Expense | Rent & Utilities | 1227.73 | Landline phone bill
+2024-09-24 | Expense | Dining Out | 11.56 | Late night snacks at diner
+2024-09-24 | Expense | Transport | 189.35 | Toll charges for highway
+2024-09-24 | Expense | Entertainment | 231.0 | Subscription to online magazine
+2024-09-25 | Expense | Dining Out | 87.22 | Business lunch with client
+2024-09-26 | Expense | Entertainment | 275.46 | Monthly Netflix subscription
+2024-09-26 | Expense | Groceries | 250.05 | Snacks and beverages
+2024-09-27 | Expense | Rent & Utilities | 495.03 | Trash collection service
+2024-09-27 | Income | Investments | 812.23 | Peer-to-peer lending interest
+2024-09-27 | Expense | Entertainment | 273.73 | Concert ticket for live band
+2024-09-27 | Expense | Rent & Utilities | 1815.2 | Internet subscription fee
+2024-09-27 | Expense | Entertainment | 291.53 | Theater play ticket
+2024-09-28 | Expense | Groceries | 182.93 | Baby food and supplies
+2024-09-29 | Expense | Entertainment | 174.25 | Art museum entry ticket
+2024-09-29 | Income | Investments | 1185.28 | Bond maturity payout
+2024-09-29 | Expense | Rent & Utilities | 781.87 | Electricity bill for January
+2024-09-30 | Expense | Rent & Utilities | 925.16 | TV cable subscription
+2024-09-30 | Expense | Entertainment | 126.46 | Theater play ticket

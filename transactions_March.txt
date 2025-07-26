@@ -1,0 +1,88 @@
+2024-03-01 | Expense | Groceries | 123.2 | Snacks and beverages
+2024-03-01 | Expense | Dining Out | 148.25 | Business lunch with client
+2024-03-01 | Expense | Rent & Utilities | 1301.05 | Monthly rent payment for apartment
+2024-03-03 | Expense | Entertainment | 299.4 | Movie rental on streaming platform
+2024-03-03 | Expense | Groceries | 140.93 | Dairy products and eggs
+2024-03-03 | Expense | Groceries | 141.99 | Baby food and supplies
+2024-03-04 | Expense | Groceries | 192.23 | Household necessities from hypermarket
+2024-03-04 | Expense | Rent & Utilities | 598.68 | Mobile phone postpaid bill
+2024-03-04 | Expense | Rent & Utilities | 1970.06 | Electricity bill for January
+2024-03-05 | Expense | Entertainment | 341.87 | Video game download
+2024-03-06 | Expense | Groceries | 137.87 | Milk and bread from local store
+2024-03-06 | Income | Gifts & Donations | 661.1 | Charity donation from anonymous donor
+2024-03-06 | Expense | Entertainment | 418.53 | Music streaming subscription
+2024-03-07 | Income | Business Profits | 1253.87 | Consulting service payment for project
+2024-03-07 | Expense | Groceries | 140.38 | Household necessities from hypermarket
+2024-03-08 | Expense | Entertainment | 472.44 | Music streaming subscription
+2024-03-08 | Expense | Transport | 284.79 | Fuel refill at gas station
+2024-03-08 | Expense | Entertainment | 18.73 | Video game download
+2024-03-09 | Expense | Groceries | 262.61 | Purchased cleaning supplies
+2024-03-09 | Expense | Transport | 179.81 | Taxi ride to office
+2024-03-10 | Expense | Rent & Utilities | 1939.5 | TV cable subscription
+2024-03-10 | Income | Gifts & Donations | 648.74 | Wedding gift received
+2024-03-10 | Expense | Rent & Utilities | 858.41 | Water bill settlement
+2024-03-11 | Expense | Groceries | 57.0 | Dairy products and eggs
+2024-03-11 | Expense | Transport | 368.86 | Parking fee at mall
+2024-03-11 | Expense | Entertainment | 56.2 | Cinema tickets for latest movie
+2024-03-11 | Expense | Groceries | 197.3 | Bulk purchase of rice and pasta
+2024-03-11 | Expense | Transport | 479.5 | Car maintenance and service
+2024-03-12 | Expense | Transport | 90.04 | Car maintenance and service
+2024-03-12 | Expense | Rent & Utilities | 371.91 | Monthly rent payment for apartment
+2024-03-13 | Expense | Transport | 194.48 | Motorbike fuel refill
+2024-03-13 | Expense | Transport | 304.97 | Bike rental fee
+2024-03-14 | Expense | Transport | 456.2 | Fuel refill at gas station
+2024-03-14 | Expense | Groceries | 287.01 | Pet food and supplies
+2024-03-14 | Income | Gifts & Donations | 1455.76 | Holiday cash gift from relatives
+2024-03-15 | Expense | Transport | 78.73 | Train ticket to nearby city
+2024-03-15 | Income | Freelance | 2426.3 | Photography gig payment
+2024-03-15 | Income | Business Profits | 239.1 | Rental income from property
+2024-03-15 | Expense | Groceries | 299.6 | Baby food and supplies
+2024-03-15 | Expense | Transport | 229.39 | Train ticket to nearby city
+2024-03-15 | Income | Business Profits | 906.06 | Licensing fee for software
+2024-03-15 | Expense | Rent & Utilities | 1305.41 | Trash collection service
+2024-03-17 | Expense | Groceries | 66.07 | Pet food and supplies
+2024-03-17 | Expense | Transport | 223.65 | Bike rental fee
+2024-03-17 | Expense | Rent & Utilities | 1567.87 | Internet subscription fee
+2024-03-17 | Expense | Transport | 33.24 | Parking fee at mall
+2024-03-17 | Expense | Groceries | 218.13 | Frozen foods
+2024-03-17 | Expense | Groceries | 124.4 | Household necessities from hypermarket
+2024-03-18 | Income | Gifts & Donations | 184.77 | Holiday cash gift from relatives
+2024-03-18 | Expense | Transport | 419.18 | Bike rental fee
+2024-03-19 | Expense | Entertainment | 195.16 | Art museum entry ticket
+2024-03-20 | Expense | Entertainment | 172.71 | Karaoke night with friends
+2024-03-20 | Income | Business Profits | 474.43 | Earnings from workshop registration
+2024-03-20 | Expense | Rent & Utilities | 428.1 | Heating system maintenance
+2024-03-20 | Expense | Transport | 296.46 | Bike rental fee
+2024-03-21 | Expense | Entertainment | 34.12 | Subscription to online magazine
+2024-03-21 | Expense | Rent & Utilities | 1591.79 | Home insurance premium
+2024-03-21 | Expense | Groceries | 46.46 | Baby food and supplies
+2024-03-22 | Expense | Entertainment | 485.98 | Cinema tickets for latest movie
+2024-03-22 | Expense | Transport | 337.69 | Bike rental fee
+2024-03-22 | Expense | Transport | 338.56 | Taxi ride to office
+2024-03-22 | Income | Gifts & Donations | 989.42 | Anniversary gift from parents
+2024-03-23 | Income | Investments | 1139.18 | Interest from savings account
+2024-03-23 | Expense | Rent & Utilities | 1792.1 | Property maintenance fee
+2024-03-23 | Expense | Transport | 211.44 | Parking fee at mall
+2024-03-24 | Expense | Transport | 190.59 | Tire replacement
+2024-03-24 | Expense | Transport | 445.72 | Bus ticket for daily commute
+2024-03-24 | Expense | Groceries | 228.91 | Bulk purchase of rice and pasta
+2024-03-24 | Income | Investments | 1233.74 | Mutual fund return payout
+2024-03-25 | Expense | Groceries | 140.15 | Bought vegetables and fruits
+2024-03-26 | Expense | Dining Out | 120.18 | Brunch with friends at bistro
+2024-03-26 | Expense | Groceries | 287.85 | Cereal and breakfast items
+2024-03-27 | Expense | Groceries | 91.67 | Organic produce from farmers market
+2024-03-27 | Expense | Rent & Utilities | 1961.53 | Electricity bill for January
+2024-03-28 | Expense | Rent & Utilities | 1640.69 | TV cable subscription
+2024-03-28 | Income | Investments | 715.67 | Peer-to-peer lending interest
+2024-03-28 | Expense | Groceries | 205.81 | Dairy products and eggs
+2024-03-29 | Expense | Transport | 194.94 | Motorbike fuel refill
+2024-03-29 | Expense | Groceries | 157.02 | Spices and condiments
+2024-03-29 | Expense | Entertainment | 46.86 | Video game download
+2024-03-29 | Expense | Transport | 479.74 | Toll charges for highway
+2024-03-30 | Expense | Rent & Utilities | 1380.19 | Home insurance premium
+2024-03-30 | Expense | Rent & Utilities | 498.35 | Monthly rent payment for apartment
+2024-03-31 | Expense | Rent & Utilities | 875.82 | Electricity bill for January
+2024-03-31 | Expense | Entertainment | 58.8 | Theater play ticket
+2024-03-31 | Expense | Dining Out | 26.26 | Brunch with friends at bistro
+2024-03-31 | Income | Salary | 3167.38 | Shift allowance payment
+2024-03-31 | Expense | Groceries | 91.55 | Cereal and breakfast items
