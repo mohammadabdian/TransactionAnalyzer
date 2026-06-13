@@ -1,0 +1,107 @@
+2024-10-01 | Expense | Rent & Utilities | 1282.58 | Electricity bill for January
+2024-10-01 | Expense | Rent & Utilities | 1101.84 | TV cable subscription
+2024-10-01 | Expense | Entertainment | 498.07 | Monthly Netflix subscription
+2024-10-01 | Expense | Dining Out | 13.1 | Fast food lunch at McDonald's
+2024-10-02 | Expense | Rent & Utilities | 981.1 | Landline phone bill
+2024-10-02 | Expense | Rent & Utilities | 1917.79 | Monthly rent payment for apartment
+2024-10-03 | Expense | Rent & Utilities | 994.7 | Internet subscription fee
+2024-10-03 | Expense | Rent & Utilities | 881.39 | Property maintenance fee
+2024-10-03 | Expense | Transport | 180.83 | Train ticket to nearby city
+2024-10-04 | Expense | Transport | 386.44 | Cab fare after night out
+2024-10-04 | Expense | Transport | 354.17 | Monthly metro pass
+2024-10-04 | Expense | Transport | 179.14 | Oil change at auto center
+2024-10-04 | Expense | Groceries | 247.87 | Pet food and supplies
+2024-10-04 | Expense | Dining Out | 76.25 | Dinner at Italian restaurant
+2024-10-05 | Expense | Groceries | 41.98 | Pet food and supplies
+2024-10-05 | Expense | Groceries | 138.03 | Purchased cleaning supplies
+2024-10-05 | Expense | Groceries | 29.84 | Dairy products and eggs
+2024-10-06 | Expense | Entertainment | 138.08 | Video game download
+2024-10-06 | Expense | Groceries | 223.78 | Snacks and beverages
+2024-10-07 | Expense | Rent & Utilities | 1721.77 | Trash collection service
+2024-10-07 | Expense | Groceries | 101.09 | Frozen foods
+2024-10-08 | Income | Freelance | 1991.08 | Consultancy charges for project
+2024-10-08 | Expense | Dining Out | 22.16 | Sushi dinner at Japanese restaurant
+2024-10-08 | Expense | Dining Out | 58.03 | Coffee at local cafe
+2024-10-09 | Expense | Transport | 192.34 | Train ticket to nearby city
+2024-10-09 | Expense | Rent & Utilities | 1881.43 | Internet subscription fee
+2024-10-09 | Expense | Groceries | 280.85 | Baby food and supplies
+2024-10-09 | Expense | Rent & Utilities | 1674.97 | Mobile phone postpaid bill
+2024-10-09 | Expense | Groceries | 151.64 | Bulk purchase of rice and pasta
+2024-10-10 | Expense | Entertainment | 297.72 | Music streaming subscription
+2024-10-10 | Expense | Entertainment | 251.43 | Dance class fee
+2024-10-10 | Expense | Rent & Utilities | 1053.37 | Water bill settlement
+2024-10-10 | Expense | Transport | 162.23 | Taxi ride to office
+2024-10-10 | Expense | Transport | 157.07 | Uber ride to airport
+2024-10-10 | Expense | Rent & Utilities | 1536.08 | Internet subscription fee
+2024-10-11 | Expense | Groceries | 79.01 | Milk and bread from local store
+2024-10-11 | Expense | Rent & Utilities | 618.16 | Natural gas bill payment
+2024-10-11 | Expense | Transport | 156.31 | Train ticket to nearby city
+2024-10-12 | Expense | Transport | 492.9 | Tire replacement
+2024-10-12 | Expense | Rent & Utilities | 738.12 | Monthly rent payment for apartment
+2024-10-13 | Expense | Entertainment | 41.26 | Subscription to online magazine
+2024-10-13 | Expense | Groceries | 31.76 | Pet food and supplies
+2024-10-14 | Expense | Groceries | 202.44 | Snacks and beverages
+2024-10-14 | Expense | Transport | 194.86 | Tire replacement
+2024-10-14 | Expense | Entertainment | 258.7 | Theater play ticket
+2024-10-14 | Expense | Rent & Utilities | 1937.3 | Internet subscription fee
+2024-10-14 | Expense | Groceries | 226.39 | Baby food and supplies
+2024-10-15 | Income | Freelance | 930.35 | Content writing fee transferred
+2024-10-16 | Expense | Transport | 132.4 | Train ticket to nearby city
+2024-10-16 | Expense | Transport | 379.81 | Parking fee at mall
+2024-10-16 | Expense | Entertainment | 290.4 | Theater play ticket
+2024-10-17 | Expense | Rent & Utilities | 1485.99 | Mobile phone postpaid bill
+2024-10-17 | Expense | Entertainment | 348.57 | Music streaming subscription
+2024-10-17 | Expense | Dining Out | 18.04 | Food delivery from Uber Eats
+2024-10-17 | Expense | Entertainment | 341.9 | Music streaming subscription
+2024-10-17 | Expense | Rent & Utilities | 1862.6 | Property maintenance fee
+2024-10-17 | Income | Business Profits | 1238.41 | E-course enrollment earnings
+2024-10-17 | Expense | Rent & Utilities | 747.69 | Natural gas bill payment
+2024-10-17 | Expense | Rent & Utilities | 884.6 | Home insurance premium
+2024-10-17 | Expense | Rent & Utilities | 1672.88 | Landline phone bill
+2024-10-17 | Expense | Transport | 203.72 | Train ticket to nearby city
+2024-10-17 | Expense | Transport | 159.92 | Parking fee at mall
+2024-10-18 | Expense | Transport | 474.3 | Bike rental fee
+2024-10-18 | Expense | Transport | 85.73 | Motorbike fuel refill
+2024-10-18 | Expense | Entertainment | 321.06 | Art museum entry ticket
+2024-10-18 | Expense | Rent & Utilities | 1909.83 | Home insurance premium
+2024-10-19 | Expense | Rent & Utilities | 1723.22 | TV cable subscription
+2024-10-19 | Expense | Rent & Utilities | 1550.83 | Landline phone bill
+2024-10-19 | Expense | Entertainment | 99.65 | Subscription to online magazine
+2024-10-20 | Expense | Rent & Utilities | 573.25 | Landline phone bill
+2024-10-20 | Expense | Rent & Utilities | 1928.59 | Home insurance premium
+2024-10-20 | Expense | Rent & Utilities | 421.28 | Water bill settlement
+2024-10-20 | Expense | Transport | 230.78 | Cab fare after night out
+2024-10-20 | Expense | Rent & Utilities | 1136.39 | Trash collection service
+2024-10-21 | Expense | Groceries | 242.43 | Milk and bread from local store
+2024-10-22 | Expense | Groceries | 174.59 | Pet food and supplies
+2024-10-22 | Income | Investments | 372.65 | ETF dividend credited
+2024-10-22 | Expense | Rent & Utilities | 1001.12 | Trash collection service
+2024-10-22 | Expense | Groceries | 95.59 | Meat and fish from butcher shop
+2024-10-23 | Expense | Transport | 249.56 | Uber ride to airport
+2024-10-24 | Income | Salary | 4808.95 | Salary credited for October
+2024-10-25 | Expense | Entertainment | 211.64 | Bookstore purchase of novels
+2024-10-25 | Expense | Rent & Utilities | 1458.71 | TV cable subscription
+2024-10-25 | Expense | Transport | 487.86 | Uber ride to airport
+2024-10-26 | Expense | Transport | 214.69 | Oil change at auto center
+2024-10-26 | Expense | Dining Out | 74.92 | Food delivery from Uber Eats
+2024-10-27 | Expense | Entertainment | 20.19 | Movie rental on streaming platform
+2024-10-27 | Expense | Transport | 177.31 | Parking fee at mall
+2024-10-27 | Expense | Transport | 219.79 | Uber ride to airport
+2024-10-28 | Expense | Groceries | 38.92 | Meat and fish from butcher shop
+2024-10-28 | Expense | Groceries | 233.99 | Snacks and beverages
+2024-10-28 | Expense | Groceries | 293.42 | Frozen foods
+2024-10-28 | Expense | Transport | 292.13 | Tire replacement
+2024-10-28 | Expense | Rent & Utilities | 873.56 | Landline phone bill
+2024-10-28 | Income | Business Profits | 754.07 | Subscription service income
+2024-10-29 | Expense | Entertainment | 364.47 | Subscription to online magazine
+2024-10-29 | Expense | Entertainment | 325.17 | Video game download
+2024-10-29 | Expense | Rent & Utilities | 1708.03 | Electricity bill for January
+2024-10-29 | Expense | Entertainment | 487.04 | Bookstore purchase of novels
+2024-10-30 | Expense | Groceries | 69.01 | Milk and bread from local store
+2024-10-30 | Expense | Transport | 121.0 | Tire replacement
+2024-10-30 | Expense | Transport | 485.23 | Motorbike fuel refill
+2024-10-30 | Expense | Entertainment | 405.28 | Board game purchase
+2024-10-30 | Expense | Entertainment | 35.46 | Amusement park entry fee
+2024-10-31 | Expense | Transport | 482.08 | Car maintenance and service
+2024-10-31 | Expense | Entertainment | 483.28 | Theater play ticket
+2024-10-31 | Expense | Rent & Utilities | 657.97 | Mobile phone postpaid bill

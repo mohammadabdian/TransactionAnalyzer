@@ -1,0 +1,104 @@
+2024-07-01 | Income | Gifts & Donations | 182.03 | Cashback reward from online store
+2024-07-01 | Expense | Transport | 290.31 | Monthly metro pass
+2024-07-02 | Expense | Dining Out | 26.24 | Romantic dinner at steakhouse
+2024-07-02 | Expense | Dining Out | 43.15 | Sushi dinner at Japanese restaurant
+2024-07-02 | Expense | Entertainment | 413.52 | Theater play ticket
+2024-07-02 | Expense | Groceries | 73.2 | Snacks and beverages
+2024-07-02 | Expense | Dining Out | 68.61 | Business lunch with client
+2024-07-03 | Expense | Groceries | 278.32 | Baby food and supplies
+2024-07-03 | Income | Business Profits | 1182.94 | E-course enrollment earnings
+2024-07-03 | Expense | Groceries | 256.74 | Spices and condiments
+2024-07-03 | Expense | Groceries | 247.57 | Bought vegetables and fruits
+2024-07-03 | Expense | Rent & Utilities | 1675.81 | Electricity bill for January
+2024-07-04 | Expense | Groceries | 23.18 | Pet food and supplies
+2024-07-04 | Expense | Dining Out | 147.56 | Coffee at local cafe
+2024-07-04 | Expense | Groceries | 169.43 | Supermarket shopping
+2024-07-04 | Expense | Dining Out | 90.93 | Food delivery from Uber Eats
+2024-07-05 | Expense | Entertainment | 90.37 | Concert ticket for live band
+2024-07-05 | Expense | Groceries | 44.54 | Pet food and supplies
+2024-07-05 | Expense | Rent & Utilities | 445.7 | Trash collection service
+2024-07-06 | Expense | Dining Out | 132.28 | Breakfast at bakery
+2024-07-06 | Expense | Groceries | 48.81 | Milk and bread from local store
+2024-07-06 | Expense | Entertainment | 37.28 | Theater play ticket
+2024-07-06 | Expense | Groceries | 217.32 | Supermarket shopping
+2024-07-06 | Income | Freelance | 465.01 | Website design payment completed
+2024-07-07 | Expense | Entertainment | 428.45 | Monthly Netflix subscription
+2024-07-07 | Expense | Transport | 59.24 | Uber ride to airport
+2024-07-07 | Expense | Transport | 320.69 | Toll charges for highway
+2024-07-07 | Expense | Transport | 101.07 | Bike rental fee
+2024-07-07 | Expense | Groceries | 91.86 | Milk and bread from local store
+2024-07-07 | Expense | Groceries | 198.69 | Weekly groceries restock
+2024-07-08 | Expense | Groceries | 260.43 | Bought vegetables and fruits
+2024-07-08 | Expense | Transport | 461.31 | Monthly metro pass
+2024-07-08 | Expense | Transport | 364.34 | Train ticket to nearby city
+2024-07-08 | Expense | Rent & Utilities | 1478.88 | Monthly rent payment for apartment
+2024-07-08 | Expense | Dining Out | 62.97 | Breakfast at bakery
+2024-07-09 | Expense | Groceries | 277.86 | Purchased cleaning supplies
+2024-07-09 | Expense | Groceries | 293.01 | Weekly groceries restock
+2024-07-10 | Expense | Dining Out | 112.53 | Street food snacks
+2024-07-10 | Expense | Groceries | 49.32 | Cereal and breakfast items
+2024-07-11 | Expense | Entertainment | 193.93 | Video game download
+2024-07-11 | Expense | Groceries | 40.91 | Bulk purchase of rice and pasta
+2024-07-11 | Expense | Groceries | 109.29 | Meat and fish from butcher shop
+2024-07-11 | Expense | Dining Out | 22.42 | Breakfast at bakery
+2024-07-11 | Expense | Rent & Utilities | 1120.65 | Monthly rent payment for apartment
+2024-07-12 | Income | Business Profits | 343.2 | Sales commission on products sold
+2024-07-12 | Expense | Rent & Utilities | 1296.23 | Trash collection service
+2024-07-12 | Income | Freelance | 1280.71 | Translation services fee
+2024-07-14 | Expense | Dining Out | 83.61 | Ice cream from parlor
+2024-07-14 | Income | Freelance | 2257.46 | Content writing fee transferred
+2024-07-15 | Expense | Transport | 274.92 | Bike rental fee
+2024-07-15 | Expense | Groceries | 95.2 | Supermarket shopping
+2024-07-16 | Expense | Transport | 257.31 | Tire replacement
+2024-07-16 | Income | Business Profits | 299.32 | E-course enrollment earnings
+2024-07-16 | Expense | Rent & Utilities | 593.77 | Internet subscription fee
+2024-07-16 | Expense | Entertainment | 457.65 | Amusement park entry fee
+2024-07-16 | Expense | Groceries | 131.29 | Pet food and supplies
+2024-07-17 | Expense | Rent & Utilities | 1604.09 | Mobile phone postpaid bill
+2024-07-17 | Expense | Dining Out | 20.48 | Romantic dinner at steakhouse
+2024-07-17 | Expense | Entertainment | 127.89 | Concert ticket for live band
+2024-07-18 | Expense | Entertainment | 385.16 | Art museum entry ticket
+2024-07-18 | Expense | Groceries | 149.37 | Purchased cleaning supplies
+2024-07-18 | Expense | Entertainment | 58.77 | Bookstore purchase of novels
+2024-07-19 | Expense | Rent & Utilities | 712.39 | Trash collection service
+2024-07-19 | Income | Business Profits | 1186.24 | Subscription service income
+2024-07-19 | Expense | Rent & Utilities | 909.93 | TV cable subscription
+2024-07-19 | Income | Business Profits | 1234.56 | Dropshipping profits
+2024-07-20 | Expense | Rent & Utilities | 1418.69 | Water bill settlement
+2024-07-20 | Expense | Groceries | 102.63 | Spices and condiments
+2024-07-20 | Expense | Entertainment | 15.33 | Karaoke night with friends
+2024-07-22 | Expense | Groceries | 142.5 | Meat and fish from butcher shop
+2024-07-22 | Expense | Dining Out | 72.53 | Sushi dinner at Japanese restaurant
+2024-07-22 | Expense | Entertainment | 402.61 | Cinema tickets for latest movie
+2024-07-22 | Expense | Groceries | 33.9 | Pet food and supplies
+2024-07-23 | Expense | Rent & Utilities | 1214.01 | Water bill settlement
+2024-07-23 | Income | Freelance | 1945.38 | Website design payment completed
+2024-07-23 | Expense | Groceries | 20.5 | Baby food and supplies
+2024-07-24 | Expense | Groceries | 295.27 | Spices and condiments
+2024-07-24 | Expense | Transport | 370.3 | Monthly metro pass
+2024-07-25 | Expense | Dining Out | 20.22 | Romantic dinner at steakhouse
+2024-07-25 | Expense | Groceries | 281.07 | Bought vegetables and fruits
+2024-07-25 | Income | Freelance | 2162.31 | Photography gig payment
+2024-07-25 | Expense | Entertainment | 191.97 | Monthly Netflix subscription
+2024-07-26 | Expense | Groceries | 127.1 | Dairy products and eggs
+2024-07-26 | Expense | Entertainment | 168.88 | Dance class fee
+2024-07-26 | Expense | Dining Out | 92.56 | Business lunch with client
+2024-07-27 | Expense | Transport | 258.49 | Taxi ride to office
+2024-07-27 | Income | Salary | 3319.77 | Shift allowance payment
+2024-07-28 | Expense | Transport | 279.98 | Monthly metro pass
+2024-07-28 | Expense | Dining Out | 108.1 | Breakfast at bakery
+2024-07-28 | Income | Salary | 2164.7 | Overtime payment included
+2024-07-28 | Income | Business Profits | 145.34 | Rental income from property
+2024-07-29 | Expense | Dining Out | 56.9 | Street food snacks
+2024-07-29 | Expense | Dining Out | 27.15 | Desserts at pastry shop
+2024-07-29 | Expense | Groceries | 98.34 | Purchased cleaning supplies
+2024-07-29 | Expense | Dining Out | 59.17 | Street food snacks
+2024-07-29 | Expense | Groceries | 172.36 | Organic produce from farmers market
+2024-07-30 | Income | Salary | 5114.02 | Holiday bonus credited
+2024-07-30 | Expense | Groceries | 267.36 | Supermarket shopping
+2024-07-30 | Expense | Entertainment | 325.23 | Monthly Netflix subscription
+2024-07-30 | Expense | Transport | 52.74 | Parking fee at mall
+2024-07-31 | Expense | Entertainment | 413.92 | Video game download
+2024-07-31 | Expense | Dining Out | 62.68 | Breakfast at bakery
+2024-07-31 | Expense | Entertainment | 343.43 | Video game download
+2024-07-31 | Expense | Dining Out | 95.92 | Pizza night with family

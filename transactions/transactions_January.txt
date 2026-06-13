@@ -1,0 +1,112 @@
+2024-01-01 | Expense | Rent & Utilities | 689.2 | Monthly rent payment for apartment
+2024-01-02 | Expense | Groceries | 108.33 | Snacks and beverages
+2024-01-02 | Expense | Rent & Utilities | 1292.24 | Property maintenance fee
+2024-01-02 | Income | Investments | 307.33 | Interest from savings account
+2024-01-02 | Expense | Dining Out | 121.46 | Late night snacks at diner
+2024-01-02 | Income | Salary | 2622.88 | Salary credited for January
+2024-01-02 | Expense | Rent & Utilities | 1838.23 | TV cable subscription
+2024-01-03 | Expense | Dining Out | 132.69 | Pizza night with family
+2024-01-03 | Income | Salary | 1805.82 | Performance bonus payout
+2024-01-03 | Expense | Entertainment | 351.57 | Dance class fee
+2024-01-04 | Expense | Entertainment | 214.38 | Movie rental on streaming platform
+2024-01-04 | Expense | Dining Out | 127.04 | Fast food lunch at McDonald's
+2024-01-04 | Expense | Transport | 143.62 | Parking fee at mall
+2024-01-04 | Income | Salary | 2019.43 | Salary credited for January
+2024-01-04 | Expense | Dining Out | 136.55 | Business lunch with client
+2024-01-04 | Expense | Rent & Utilities | 733.03 | Sewage services charge
+2024-01-04 | Expense | Entertainment | 165.0 | Theater play ticket
+2024-01-05 | Expense | Entertainment | 287.26 | Video game download
+2024-01-05 | Expense | Transport | 37.85 | Fuel refill at gas station
+2024-01-05 | Expense | Dining Out | 69.1 | Fast food lunch at McDonald's
+2024-01-05 | Expense | Rent & Utilities | 1234.67 | Natural gas bill payment
+2024-01-05 | Expense | Transport | 43.36 | Motorbike fuel refill
+2024-01-05 | Expense | Groceries | 230.27 | Milk and bread from local store
+2024-01-05 | Expense | Rent & Utilities | 1979.42 | TV cable subscription
+2024-01-06 | Expense | Dining Out | 132.62 | Sushi dinner at Japanese restaurant
+2024-01-06 | Expense | Rent & Utilities | 1027.07 | Monthly rent payment for apartment
+2024-01-07 | Income | Salary | 1917.36 | Salary credited for January
+2024-01-07 | Expense | Rent & Utilities | 1854.73 | Home insurance premium
+2024-01-07 | Expense | Dining Out | 133.53 | Romantic dinner at steakhouse
+2024-01-07 | Expense | Transport | 103.99 | Car maintenance and service
+2024-01-07 | Income | Business Profits | 330.49 | Profit from online store sales
+2024-01-07 | Expense | Entertainment | 48.67 | Subscription to online magazine
+2024-01-07 | Expense | Rent & Utilities | 1222.44 | Mobile phone postpaid bill
+2024-01-08 | Expense | Dining Out | 142.57 | Fast food lunch at McDonald's
+2024-01-08 | Expense | Groceries | 175.1 | Meat and fish from butcher shop
+2024-01-08 | Income | Salary | 5136.1 | Commission on sales received
+2024-01-09 | Expense | Rent & Utilities | 810.0 | Trash collection service
+2024-01-09 | Income | Gifts & Donations | 229.22 | Lucky draw cash prize
+2024-01-09 | Expense | Dining Out | 63.56 | Dinner at Italian restaurant
+2024-01-09 | Expense | Rent & Utilities | 1455.18 | Property maintenance fee
+2024-01-10 | Income | Freelance | 737.6 | Consultancy charges for project
+2024-01-10 | Expense | Dining Out | 41.21 | Ice cream from parlor
+2024-01-10 | Expense | Transport | 26.85 | Uber ride to airport
+2024-01-11 | Income | Salary | 4722.86 | Performance bonus payout
+2024-01-11 | Expense | Rent & Utilities | 748.77 | Home insurance premium
+2024-01-11 | Income | Salary | 5866.8 | Overtime payment included
+2024-01-11 | Expense | Entertainment | 76.73 | Theater play ticket
+2024-01-11 | Income | Business Profits | 957.71 | Subscription service income
+2024-01-12 | Income | Investments | 1229.98 | Peer-to-peer lending interest
+2024-01-12 | Expense | Dining Out | 66.89 | Romantic dinner at steakhouse
+2024-01-12 | Expense | Entertainment | 309.01 | Amusement park entry fee
+2024-01-13 | Expense | Dining Out | 84.08 | Business lunch with client
+2024-01-13 | Expense | Dining Out | 25.3 | Brunch with friends at bistro
+2024-01-13 | Expense | Dining Out | 73.7 | Street food snacks
+2024-01-13 | Expense | Dining Out | 44.47 | Romantic dinner at steakhouse
+2024-01-13 | Expense | Groceries | 100.34 | Spices and condiments
+2024-01-14 | Expense | Rent & Utilities | 1676.03 | Monthly rent payment for apartment
+2024-01-14 | Expense | Dining Out | 85.38 | Breakfast at bakery
+2024-01-14 | Income | Investments | 1356.09 | Peer-to-peer lending interest
+2024-01-15 | Expense | Entertainment | 426.44 | Board game purchase
+2024-01-15 | Expense | Entertainment | 324.27 | Subscription to online magazine
+2024-01-16 | Expense | Rent & Utilities | 992.0 | Electricity bill for January
+2024-01-16 | Expense | Dining Out | 73.76 | Ice cream from parlor
+2024-01-17 | Expense | Rent & Utilities | 480.9 | Landline phone bill
+2024-01-17 | Income | Salary | 2453.09 | Commission on sales received
+2024-01-17 | Income | Freelance | 425.14 | Social media marketing project fee
+2024-01-18 | Expense | Dining Out | 21.03 | Sushi dinner at Japanese restaurant
+2024-01-18 | Expense | Transport | 199.04 | Toll charges for highway
+2024-01-18 | Expense | Entertainment | 39.32 | Board game purchase
+2024-01-19 | Income | Salary | 1987.81 | Holiday bonus credited
+2024-01-19 | Expense | Dining Out | 79.21 | Brunch with friends at bistro
+2024-01-20 | Expense | Transport | 330.19 | Oil change at auto center
+2024-01-20 | Expense | Groceries | 280.15 | Household necessities from hypermarket
+2024-01-20 | Expense | Dining Out | 115.16 | Ice cream from parlor
+2024-01-21 | Expense | Dining Out | 73.21 | Brunch with friends at bistro
+2024-01-21 | Expense | Rent & Utilities | 1242.82 | Landline phone bill
+2024-01-22 | Income | Investments | 1363.93 | Cryptocurrency profit withdrawal
+2024-01-22 | Expense | Rent & Utilities | 1832.01 | Heating system maintenance
+2024-01-23 | Expense | Rent & Utilities | 1614.22 | Electricity bill for January
+2024-01-23 | Income | Investments | 952.78 | Interest from savings account
+2024-01-23 | Expense | Rent & Utilities | 1732.85 | Heating system maintenance
+2024-01-23 | Income | Business Profits | 878.08 | Dropshipping profits
+2024-01-23 | Expense | Entertainment | 170.06 | Amusement park entry fee
+2024-01-24 | Expense | Dining Out | 65.92 | Brunch with friends at bistro
+2024-01-24 | Expense | Transport | 383.89 | Bike rental fee
+2024-01-24 | Expense | Rent & Utilities | 1398.51 | Monthly rent payment for apartment
+2024-01-24 | Expense | Entertainment | 308.34 | Dance class fee
+2024-01-24 | Expense | Dining Out | 131.04 | Food delivery from Uber Eats
+2024-01-24 | Expense | Transport | 264.99 | Toll charges for highway
+2024-01-25 | Expense | Dining Out | 57.64 | Coffee at local cafe
+2024-01-25 | Expense | Rent & Utilities | 489.64 | Mobile phone postpaid bill
+2024-01-25 | Expense | Dining Out | 139.14 | Dinner at Italian restaurant
+2024-01-25 | Expense | Transport | 166.18 | Toll charges for highway
+2024-01-25 | Expense | Transport | 479.61 | Oil change at auto center
+2024-01-25 | Expense | Rent & Utilities | 766.82 | Electricity bill for January
+2024-01-26 | Expense | Rent & Utilities | 604.91 | Trash collection service
+2024-01-26 | Income | Gifts & Donations | 1309.69 | Gift card redeemed
+2024-01-26 | Expense | Rent & Utilities | 1090.48 | Home insurance premium
+2024-01-27 | Expense | Dining Out | 60.63 | Brunch with friends at bistro
+2024-01-27 | Expense | Rent & Utilities | 656.16 | Natural gas bill payment
+2024-01-27 | Expense | Entertainment | 492.17 | Subscription to online magazine
+2024-01-27 | Expense | Groceries | 235.91 | Snacks and beverages
+2024-01-28 | Expense | Transport | 149.82 | Toll charges for highway
+2024-01-28 | Income | Investments | 260.37 | ETF dividend credited
+2024-01-28 | Expense | Rent & Utilities | 773.41 | Home insurance premium
+2024-01-28 | Expense | Transport | 460.45 | Parking fee at mall
+2024-01-29 | Expense | Entertainment | 153.22 | Board game purchase
+2024-01-30 | Expense | Entertainment | 212.11 | Board game purchase
+2024-01-30 | Expense | Transport | 237.27 | Tire replacement
+2024-01-31 | Expense | Rent & Utilities | 919.18 | Electricity bill for January
+2024-01-31 | Expense | Entertainment | 167.25 | Movie rental on streaming platform
+2024-01-31 | Expense | Dining Out | 117.18 | Street food snacks

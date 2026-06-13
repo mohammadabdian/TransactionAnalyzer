@@ -1,0 +1,97 @@
+2024-02-01 | Income | Freelance | 344.84 | Content writing fee transferred
+2024-02-01 | Expense | Transport | 251.46 | Parking fee at mall
+2024-02-01 | Expense | Rent & Utilities | 1002.52 | Internet subscription fee
+2024-02-01 | Expense | Entertainment | 332.57 | Concert ticket for live band
+2024-02-02 | Expense | Rent & Utilities | 1877.04 | Home insurance premium
+2024-02-02 | Expense | Entertainment | 458.01 | Theater play ticket
+2024-02-02 | Expense | Groceries | 120.37 | Spices and condiments
+2024-02-03 | Expense | Groceries | 149.28 | Supermarket shopping
+2024-02-03 | Income | Salary | 4940.0 | Performance bonus payout
+2024-02-03 | Expense | Dining Out | 57.4 | Breakfast at bakery
+2024-02-04 | Expense | Dining Out | 90.61 | Street food snacks
+2024-02-04 | Expense | Transport | 346.87 | Bike rental fee
+2024-02-04 | Income | Investments | 157.5 | ETF dividend credited
+2024-02-05 | Expense | Entertainment | 345.67 | Concert ticket for live band
+2024-02-06 | Expense | Rent & Utilities | 1857.32 | Water bill settlement
+2024-02-06 | Expense | Rent & Utilities | 950.33 | Landline phone bill
+2024-02-07 | Expense | Entertainment | 366.42 | Subscription to online magazine
+2024-02-08 | Expense | Dining Out | 101.25 | Food delivery from Uber Eats
+2024-02-08 | Expense | Rent & Utilities | 1258.75 | Internet subscription fee
+2024-02-08 | Expense | Rent & Utilities | 1435.92 | Trash collection service
+2024-02-08 | Expense | Transport | 358.39 | Monthly metro pass
+2024-02-08 | Expense | Groceries | 20.75 | Frozen foods
+2024-02-08 | Income | Business Profits | 746.03 | Consulting service payment for project
+2024-02-08 | Expense | Entertainment | 62.74 | Art museum entry ticket
+2024-02-08 | Expense | Rent & Utilities | 694.72 | Landline phone bill
+2024-02-08 | Expense | Transport | 158.5 | Motorbike fuel refill
+2024-02-09 | Expense | Groceries | 111.52 | Baby food and supplies
+2024-02-09 | Expense | Dining Out | 45.32 | Fast food lunch at McDonald's
+2024-02-09 | Expense | Groceries | 101.8 | Purchased cleaning supplies
+2024-02-09 | Expense | Rent & Utilities | 1828.14 | Home insurance premium
+2024-02-10 | Expense | Entertainment | 348.38 | Video game download
+2024-02-10 | Expense | Dining Out | 65.41 | Dinner at Italian restaurant
+2024-02-11 | Income | Gifts & Donations | 221.33 | Cashback reward from online store
+2024-02-11 | Expense | Entertainment | 336.35 | Theater play ticket
+2024-02-11 | Expense | Dining Out | 131.09 | Late night snacks at diner
+2024-02-11 | Income | Investments | 1248.77 | Cryptocurrency profit withdrawal
+2024-02-12 | Expense | Transport | 136.93 | Fuel refill at gas station
+2024-02-12 | Expense | Transport | 65.73 | Monthly metro pass
+2024-02-13 | Expense | Dining Out | 138.74 | Romantic dinner at steakhouse
+2024-02-13 | Income | Freelance | 1602.62 | App development project income
+2024-02-13 | Expense | Transport | 297.05 | Car maintenance and service
+2024-02-13 | Income | Gifts & Donations | 1012.83 | Charity donation from anonymous donor
+2024-02-13 | Expense | Dining Out | 129.33 | Late night snacks at diner
+2024-02-14 | Expense | Entertainment | 339.4 | Subscription to online magazine
+2024-02-14 | Expense | Groceries | 201.31 | Bought vegetables and fruits
+2024-02-14 | Expense | Rent & Utilities | 1474.04 | Landline phone bill
+2024-02-14 | Expense | Groceries | 61.72 | Snacks and beverages
+2024-02-15 | Expense | Dining Out | 33.49 | Romantic dinner at steakhouse
+2024-02-15 | Expense | Rent & Utilities | 1489.55 | Natural gas bill payment
+2024-02-15 | Expense | Entertainment | 462.11 | Amusement park entry fee
+2024-02-16 | Expense | Rent & Utilities | 1999.84 | Trash collection service
+2024-02-16 | Expense | Transport | 483.27 | Train ticket to nearby city
+2024-02-16 | Income | Salary | 5844.09 | Quarterly incentive added
+2024-02-16 | Income | Salary | 1807.89 | End of year bonus received
+2024-02-17 | Expense | Dining Out | 126.57 | Sushi dinner at Japanese restaurant
+2024-02-17 | Expense | Entertainment | 305.05 | Theater play ticket
+2024-02-17 | Expense | Rent & Utilities | 1363.19 | Heating system maintenance
+2024-02-18 | Expense | Entertainment | 288.73 | Cinema tickets for latest movie
+2024-02-18 | Expense | Dining Out | 21.99 | Breakfast at bakery
+2024-02-18 | Expense | Entertainment | 376.78 | Music streaming subscription
+2024-02-18 | Expense | Transport | 363.58 | Bike rental fee
+2024-02-19 | Expense | Groceries | 61.78 | Household necessities from hypermarket
+2024-02-19 | Income | Freelance | 1666.26 | Website design payment completed
+2024-02-19 | Expense | Dining Out | 145.67 | Desserts at pastry shop
+2024-02-19 | Expense | Dining Out | 106.64 | Desserts at pastry shop
+2024-02-19 | Income | Gifts & Donations | 1463.04 | Cashback reward from online store
+2024-02-21 | Income | Investments | 314.19 | Interest from savings account
+2024-02-21 | Income | Investments | 1321.81 | Cryptocurrency profit withdrawal
+2024-02-21 | Income | Investments | 1103.24 | ETF dividend credited
+2024-02-23 | Expense | Dining Out | 23.03 | Brunch with friends at bistro
+2024-02-23 | Expense | Transport | 127.27 | Motorbike fuel refill
+2024-02-23 | Expense | Rent & Utilities | 1238.83 | Electricity bill for January
+2024-02-23 | Expense | Dining Out | 147.23 | Brunch with friends at bistro
+2024-02-23 | Expense | Entertainment | 430.17 | Theater play ticket
+2024-02-23 | Income | Investments | 1071.6 | Dividend received from stocks
+2024-02-24 | Expense | Dining Out | 32.93 | Sushi dinner at Japanese restaurant
+2024-02-24 | Expense | Rent & Utilities | 1347.05 | Property maintenance fee
+2024-02-24 | Expense | Groceries | 170.04 | Organic produce from farmers market
+2024-02-24 | Expense | Groceries | 45.57 | Bought vegetables and fruits
+2024-02-24 | Income | Business Profits | 486.75 | Licensing fee for software
+2024-02-24 | Expense | Rent & Utilities | 1998.13 | Home insurance premium
+2024-02-25 | Expense | Entertainment | 369.55 | Video game download
+2024-02-25 | Expense | Entertainment | 229.72 | Movie rental on streaming platform
+2024-02-25 | Expense | Groceries | 204.92 | Organic produce from farmers market
+2024-02-25 | Expense | Transport | 34.51 | Bike rental fee
+2024-02-25 | Expense | Entertainment | 171.06 | Bookstore purchase of novels
+2024-02-26 | Expense | Transport | 304.14 | Train ticket to nearby city
+2024-02-26 | Expense | Rent & Utilities | 1666.64 | Internet subscription fee
+2024-02-27 | Expense | Groceries | 241.94 | Household necessities from hypermarket
+2024-02-27 | Expense | Groceries | 44.66 | Snacks and beverages
+2024-02-28 | Expense | Entertainment | 225.26 | Music streaming subscription
+2024-02-28 | Expense | Dining Out | 66.1 | Fast food lunch at McDonald's
+2024-02-28 | Expense | Rent & Utilities | 886.71 | Property maintenance fee
+2024-02-28 | Expense | Dining Out | 23.96 | Desserts at pastry shop
+2024-02-28 | Expense | Dining Out | 129.47 | Fast food lunch at McDonald's
+2024-02-29 | Expense | Groceries | 292.48 | Meat and fish from butcher shop
+2024-02-29 | Expense | Rent & Utilities | 425.57 | Trash collection service

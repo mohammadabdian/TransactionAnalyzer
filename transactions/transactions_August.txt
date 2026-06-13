@@ -1,0 +1,119 @@
+2024-08-01 | Expense | Groceries | 124.47 | Bought vegetables and fruits
+2024-08-01 | Expense | Groceries | 214.19 | Dairy products and eggs
+2024-08-01 | Expense | Rent & Utilities | 523.05 | Sewage services charge
+2024-08-01 | Expense | Groceries | 122.65 | Supermarket shopping
+2024-08-01 | Expense | Entertainment | 387.25 | Karaoke night with friends
+2024-08-01 | Expense | Groceries | 257.68 | Pet food and supplies
+2024-08-01 | Expense | Groceries | 281.89 | Pet food and supplies
+2024-08-02 | Expense | Dining Out | 106.67 | Dinner at Italian restaurant
+2024-08-02 | Income | Gifts & Donations | 1422.02 | Wedding gift received
+2024-08-02 | Expense | Transport | 199.42 | Oil change at auto center
+2024-08-02 | Expense | Groceries | 31.04 | Household necessities from hypermarket
+2024-08-02 | Income | Business Profits | 924.34 | Dropshipping profits
+2024-08-03 | Expense | Groceries | 101.43 | Cereal and breakfast items
+2024-08-03 | Expense | Transport | 70.21 | Bus ticket for daily commute
+2024-08-03 | Income | Investments | 266.19 | Peer-to-peer lending interest
+2024-08-04 | Income | Investments | 188.67 | Bond maturity payout
+2024-08-05 | Expense | Rent & Utilities | 593.89 | Water bill settlement
+2024-08-05 | Expense | Rent & Utilities | 1250.35 | Water bill settlement
+2024-08-05 | Expense | Rent & Utilities | 1624.2 | Home insurance premium
+2024-08-05 | Income | Investments | 1482.91 | Dividend received from stocks
+2024-08-05 | Expense | Rent & Utilities | 995.66 | Natural gas bill payment
+2024-08-05 | Expense | Entertainment | 444.92 | Amusement park entry fee
+2024-08-06 | Expense | Rent & Utilities | 449.67 | TV cable subscription
+2024-08-06 | Expense | Rent & Utilities | 1339.31 | Landline phone bill
+2024-08-06 | Expense | Groceries | 128.47 | Cereal and breakfast items
+2024-08-07 | Expense | Groceries | 138.54 | Spices and condiments
+2024-08-07 | Income | Gifts & Donations | 1267.75 | Holiday cash gift from relatives
+2024-08-07 | Income | Investments | 778.24 | ETF dividend credited
+2024-08-07 | Expense | Dining Out | 135.0 | Desserts at pastry shop
+2024-08-08 | Expense | Rent & Utilities | 819.28 | Sewage services charge
+2024-08-08 | Expense | Groceries | 240.67 | Cereal and breakfast items
+2024-08-09 | Expense | Entertainment | 58.3 | Board game purchase
+2024-08-09 | Expense | Groceries | 165.78 | Baby food and supplies
+2024-08-09 | Income | Investments | 1131.42 | Mutual fund return payout
+2024-08-09 | Expense | Groceries | 214.65 | Bought vegetables and fruits
+2024-08-09 | Expense | Groceries | 200.13 | Baby food and supplies
+2024-08-09 | Expense | Transport | 157.67 | Bike rental fee
+2024-08-10 | Expense | Transport | 393.55 | Oil change at auto center
+2024-08-10 | Expense | Transport | 131.55 | Taxi ride to office
+2024-08-10 | Expense | Transport | 300.51 | Monthly metro pass
+2024-08-10 | Expense | Groceries | 165.69 | Purchased cleaning supplies
+2024-08-10 | Expense | Groceries | 75.62 | Bulk purchase of rice and pasta
+2024-08-11 | Income | Business Profits | 193.82 | Licensing fee for software
+2024-08-11 | Expense | Groceries | 169.7 | Pet food and supplies
+2024-08-11 | Expense | Groceries | 197.66 | Bought vegetables and fruits
+2024-08-11 | Expense | Transport | 316.58 | Motorbike fuel refill
+2024-08-11 | Expense | Entertainment | 402.96 | Amusement park entry fee
+2024-08-12 | Expense | Dining Out | 46.21 | Late night snacks at diner
+2024-08-12 | Expense | Groceries | 258.34 | Pet food and supplies
+2024-08-12 | Expense | Groceries | 273.93 | Baby food and supplies
+2024-08-12 | Expense | Groceries | 226.79 | Milk and bread from local store
+2024-08-12 | Expense | Rent & Utilities | 1735.34 | Trash collection service
+2024-08-13 | Income | Salary | 3906.3 | Monthly paycheck from company
+2024-08-14 | Expense | Transport | 483.18 | Bus ticket for daily commute
+2024-08-14 | Income | Business Profits | 579.83 | Dropshipping profits
+2024-08-14 | Expense | Groceries | 221.25 | Milk and bread from local store
+2024-08-14 | Expense | Groceries | 158.98 | Bulk purchase of rice and pasta
+2024-08-14 | Income | Investments | 896.52 | Peer-to-peer lending interest
+2024-08-15 | Expense | Rent & Utilities | 586.63 | Heating system maintenance
+2024-08-15 | Expense | Groceries | 114.62 | Spices and condiments
+2024-08-15 | Expense | Dining Out | 28.85 | Desserts at pastry shop
+2024-08-16 | Expense | Groceries | 60.28 | Baby food and supplies
+2024-08-16 | Income | Gifts & Donations | 941.6 | Birthday gift from family
+2024-08-16 | Income | Investments | 1314.5 | Real estate investment return
+2024-08-17 | Expense | Rent & Utilities | 1604.87 | Monthly rent payment for apartment
+2024-08-17 | Expense | Groceries | 259.19 | Purchased cleaning supplies
+2024-08-17 | Expense | Rent & Utilities | 461.91 | Landline phone bill
+2024-08-17 | Expense | Groceries | 271.13 | Pet food and supplies
+2024-08-17 | Income | Investments | 952.59 | Mutual fund return payout
+2024-08-18 | Expense | Groceries | 97.34 | Frozen foods
+2024-08-18 | Expense | Entertainment | 362.58 | Music streaming subscription
+2024-08-19 | Expense | Dining Out | 139.49 | Romantic dinner at steakhouse
+2024-08-19 | Expense | Transport | 336.24 | Cab fare after night out
+2024-08-20 | Expense | Dining Out | 76.44 | Business lunch with client
+2024-08-20 | Income | Gifts & Donations | 1014.99 | Birthday gift from family
+2024-08-20 | Expense | Groceries | 258.61 | Bulk purchase of rice and pasta
+2024-08-21 | Income | Gifts & Donations | 438.71 | Cashback reward from online store
+2024-08-21 | Expense | Dining Out | 129.22 | Desserts at pastry shop
+2024-08-21 | Expense | Dining Out | 51.44 | Desserts at pastry shop
+2024-08-22 | Expense | Groceries | 296.74 | Cereal and breakfast items
+2024-08-22 | Expense | Groceries | 159.26 | Household necessities from hypermarket
+2024-08-23 | Expense | Transport | 240.15 | Bus ticket for daily commute
+2024-08-23 | Expense | Groceries | 33.9 | Bulk purchase of rice and pasta
+2024-08-23 | Income | Freelance | 306.02 | Website design payment completed
+2024-08-23 | Expense | Dining Out | 128.21 | Fast food lunch at McDonald's
+2024-08-23 | Expense | Groceries | 204.49 | Bought vegetables and fruits
+2024-08-24 | Expense | Groceries | 124.28 | Cereal and breakfast items
+2024-08-24 | Expense | Dining Out | 103.78 | Pizza night with family
+2024-08-24 | Expense | Transport | 343.0 | Bus ticket for daily commute
+2024-08-24 | Expense | Groceries | 135.45 | Bought vegetables and fruits
+2024-08-25 | Expense | Groceries | 169.98 | Dairy products and eggs
+2024-08-25 | Expense | Transport | 112.81 | Motorbike fuel refill
+2024-08-25 | Expense | Rent & Utilities | 472.19 | Natural gas bill payment
+2024-08-26 | Expense | Transport | 86.88 | Tire replacement
+2024-08-26 | Income | Business Profits | 665.74 | Rental income from property
+2024-08-26 | Expense | Dining Out | 33.35 | Coffee at local cafe
+2024-08-27 | Expense | Groceries | 256.0 | Milk and bread from local store
+2024-08-27 | Expense | Groceries | 34.16 | Dairy products and eggs
+2024-08-27 | Expense | Entertainment | 310.39 | Video game download
+2024-08-27 | Expense | Transport | 157.49 | Car maintenance and service
+2024-08-27 | Expense | Transport | 403.61 | Car maintenance and service
+2024-08-27 | Expense | Entertainment | 315.25 | Video game download
+2024-08-28 | Expense | Groceries | 228.24 | Cereal and breakfast items
+2024-08-28 | Expense | Groceries | 241.62 | Weekly groceries restock
+2024-08-28 | Expense | Groceries | 77.88 | Spices and condiments
+2024-08-28 | Expense | Entertainment | 476.81 | Art museum entry ticket
+2024-08-28 | Expense | Groceries | 258.56 | Organic produce from farmers market
+2024-08-28 | Expense | Rent & Utilities | 845.08 | Trash collection service
+2024-08-29 | Expense | Transport | 250.51 | Tire replacement
+2024-08-29 | Expense | Groceries | 265.05 | Bulk purchase of rice and pasta
+2024-08-29 | Expense | Dining Out | 36.68 | Ice cream from parlor
+2024-08-29 | Income | Business Profits | 282.92 | Dropshipping profits
+2024-08-29 | Expense | Groceries | 208.01 | Cereal and breakfast items
+2024-08-30 | Income | Business Profits | 972.28 | Subscription service income
+2024-08-30 | Income | Freelance | 960.43 | Content writing fee transferred
+2024-08-30 | Expense | Entertainment | 254.64 | Monthly Netflix subscription
+2024-08-30 | Expense | Dining Out | 34.81 | Romantic dinner at steakhouse
+2024-08-31 | Expense | Groceries | 45.0 | Dairy products and eggs
+2024-08-31 | Expense | Dining Out | 106.59 | Desserts at pastry shop

@@ -1,0 +1,104 @@
+2024-12-01 | Expense | Dining Out | 86.09 | Dinner at Italian restaurant
+2024-12-01 | Expense | Rent & Utilities | 1659.21 | Heating system maintenance
+2024-12-01 | Expense | Groceries | 257.47 | Weekly groceries restock
+2024-12-01 | Expense | Transport | 447.69 | Parking fee at mall
+2024-12-02 | Expense | Transport | 184.27 | Monthly metro pass
+2024-12-02 | Expense | Entertainment | 324.19 | Cinema tickets for latest movie
+2024-12-02 | Expense | Transport | 221.84 | Monthly metro pass
+2024-12-03 | Expense | Entertainment | 398.67 | Amusement park entry fee
+2024-12-04 | Expense | Rent & Utilities | 372.11 | Internet subscription fee
+2024-12-04 | Income | Business Profits | 104.95 | E-course enrollment earnings
+2024-12-04 | Expense | Entertainment | 284.22 | Movie rental on streaming platform
+2024-12-04 | Income | Gifts & Donations | 429.34 | Lucky draw cash prize
+2024-12-05 | Expense | Dining Out | 85.18 | Pizza night with family
+2024-12-05 | Expense | Transport | 313.55 | Car maintenance and service
+2024-12-05 | Expense | Rent & Utilities | 544.79 | Home insurance premium
+2024-12-06 | Expense | Dining Out | 107.46 | Coffee at local cafe
+2024-12-06 | Expense | Dining Out | 115.22 | Breakfast at bakery
+2024-12-07 | Expense | Groceries | 195.13 | Milk and bread from local store
+2024-12-07 | Income | Freelance | 354.86 | Video editing freelance earnings
+2024-12-07 | Expense | Transport | 169.79 | Car maintenance and service
+2024-12-07 | Expense | Dining Out | 51.96 | Food delivery from Uber Eats
+2024-12-07 | Expense | Entertainment | 106.29 | Theater play ticket
+2024-12-09 | Income | Freelance | 1839.15 | Consultancy charges for project
+2024-12-10 | Expense | Dining Out | 50.43 | Coffee at local cafe
+2024-12-10 | Expense | Entertainment | 17.97 | Art museum entry ticket
+2024-12-11 | Expense | Dining Out | 121.51 | Breakfast at bakery
+2024-12-11 | Expense | Rent & Utilities | 1347.19 | Monthly rent payment for apartment
+2024-12-11 | Expense | Groceries | 165.76 | Household necessities from hypermarket
+2024-12-11 | Expense | Rent & Utilities | 1032.95 | Mobile phone postpaid bill
+2024-12-12 | Income | Investments | 794.96 | Peer-to-peer lending interest
+2024-12-12 | Expense | Transport | 422.76 | Parking fee at mall
+2024-12-13 | Income | Gifts & Donations | 500.28 | Charity donation from anonymous donor
+2024-12-13 | Expense | Entertainment | 101.76 | Karaoke night with friends
+2024-12-13 | Expense | Rent & Utilities | 1270.67 | Mobile phone postpaid bill
+2024-12-13 | Expense | Dining Out | 18.74 | Business lunch with client
+2024-12-14 | Expense | Dining Out | 106.59 | Coffee at local cafe
+2024-12-14 | Expense | Rent & Utilities | 1340.49 | Electricity bill for January
+2024-12-14 | Expense | Entertainment | 269.81 | Karaoke night with friends
+2024-12-15 | Expense | Entertainment | 365.48 | Monthly Netflix subscription
+2024-12-15 | Expense | Transport | 306.05 | Uber ride to airport
+2024-12-15 | Expense | Entertainment | 375.15 | Movie rental on streaming platform
+2024-12-15 | Expense | Transport | 411.46 | Motorbike fuel refill
+2024-12-15 | Expense | Transport | 327.54 | Bike rental fee
+2024-12-15 | Expense | Dining Out | 30.12 | Romantic dinner at steakhouse
+2024-12-15 | Expense | Dining Out | 19.75 | Fast food lunch at McDonald's
+2024-12-16 | Expense | Rent & Utilities | 766.51 | Property maintenance fee
+2024-12-16 | Expense | Dining Out | 42.58 | Sushi dinner at Japanese restaurant
+2024-12-16 | Income | Gifts & Donations | 1003.91 | Cashback reward from online store
+2024-12-16 | Expense | Entertainment | 425.2 | Video game download
+2024-12-17 | Expense | Dining Out | 15.5 | Street food snacks
+2024-12-17 | Expense | Dining Out | 36.58 | Desserts at pastry shop
+2024-12-17 | Expense | Rent & Utilities | 836.35 | Property maintenance fee
+2024-12-17 | Expense | Transport | 395.7 | Bike rental fee
+2024-12-18 | Expense | Dining Out | 120.17 | Business lunch with client
+2024-12-18 | Expense | Transport | 356.61 | Train ticket to nearby city
+2024-12-18 | Expense | Transport | 243.31 | Toll charges for highway
+2024-12-19 | Expense | Rent & Utilities | 1978.22 | Home insurance premium
+2024-12-19 | Expense | Transport | 312.43 | Parking fee at mall
+2024-12-19 | Expense | Entertainment | 129.53 | Art museum entry ticket
+2024-12-20 | Income | Freelance | 1137.34 | Content writing fee transferred
+2024-12-20 | Income | Freelance | 1595.5 | Video editing freelance earnings
+2024-12-20 | Expense | Transport | 248.95 | Fuel refill at gas station
+2024-12-21 | Expense | Transport | 398.24 | Train ticket to nearby city
+2024-12-21 | Expense | Transport | 411.26 | Tire replacement
+2024-12-21 | Expense | Entertainment | 200.06 | Amusement park entry fee
+2024-12-22 | Expense | Rent & Utilities | 1489.74 | TV cable subscription
+2024-12-22 | Expense | Transport | 147.71 | Taxi ride to office
+2024-12-22 | Expense | Dining Out | 90.39 | Desserts at pastry shop
+2024-12-22 | Expense | Rent & Utilities | 944.15 | Home insurance premium
+2024-12-22 | Expense | Dining Out | 21.85 | Ice cream from parlor
+2024-12-23 | Expense | Entertainment | 420.54 | Dance class fee
+2024-12-24 | Expense | Rent & Utilities | 1562.2 | TV cable subscription
+2024-12-24 | Expense | Transport | 232.96 | Parking fee at mall
+2024-12-24 | Expense | Dining Out | 148.08 | Sushi dinner at Japanese restaurant
+2024-12-24 | Expense | Rent & Utilities | 1998.28 | Mobile phone postpaid bill
+2024-12-24 | Expense | Entertainment | 434.43 | Monthly Netflix subscription
+2024-12-25 | Expense | Entertainment | 487.24 | Subscription to online magazine
+2024-12-25 | Expense | Transport | 409.23 | Motorbike fuel refill
+2024-12-25 | Expense | Entertainment | 261.36 | Theater play ticket
+2024-12-26 | Expense | Dining Out | 114.91 | Pizza night with family
+2024-12-26 | Income | Freelance | 1372.51 | Website design payment completed
+2024-12-26 | Expense | Entertainment | 301.41 | Bookstore purchase of novels
+2024-12-26 | Expense | Entertainment | 397.63 | Karaoke night with friends
+2024-12-27 | Expense | Entertainment | 281.98 | Video game download
+2024-12-27 | Expense | Entertainment | 178.9 | Art museum entry ticket
+2024-12-27 | Income | Investments | 1489.81 | Mutual fund return payout
+2024-12-27 | Expense | Transport | 284.73 | Fuel refill at gas station
+2024-12-27 | Income | Gifts & Donations | 315.97 | Charity donation from anonymous donor
+2024-12-28 | Expense | Rent & Utilities | 387.23 | Natural gas bill payment
+2024-12-28 | Expense | Entertainment | 307.59 | Music streaming subscription
+2024-12-28 | Expense | Groceries | 135.88 | Pet food and supplies
+2024-12-28 | Expense | Rent & Utilities | 543.6 | Electricity bill for January
+2024-12-29 | Expense | Transport | 235.52 | Train ticket to nearby city
+2024-12-29 | Expense | Rent & Utilities | 1247.83 | Internet subscription fee
+2024-12-29 | Expense | Entertainment | 476.1 | Bookstore purchase of novels
+2024-12-29 | Expense | Transport | 462.96 | Motorbike fuel refill
+2024-12-29 | Expense | Rent & Utilities | 1587.03 | Landline phone bill
+2024-12-30 | Expense | Dining Out | 130.77 | Coffee at local cafe
+2024-12-30 | Expense | Transport | 496.96 | Monthly metro pass
+2024-12-30 | Expense | Rent & Utilities | 848.8 | Mobile phone postpaid bill
+2024-12-30 | Expense | Dining Out | 141.13 | Breakfast at bakery
+2024-12-30 | Expense | Transport | 18.94 | Oil change at auto center
+2024-12-31 | Expense | Entertainment | 115.19 | Music streaming subscription
+2024-12-31 | Expense | Rent & Utilities | 1695.28 | Trash collection service

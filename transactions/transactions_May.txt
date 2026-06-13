@@ -1,0 +1,108 @@
+2024-05-01 | Expense | Transport | 380.57 | Parking fee at mall
+2024-05-02 | Expense | Entertainment | 244.12 | Art museum entry ticket
+2024-05-02 | Expense | Transport | 85.77 | Train ticket to nearby city
+2024-05-02 | Income | Salary | 5180.98 | Monthly paycheck from company
+2024-05-03 | Expense | Rent & Utilities | 1216.81 | Landline phone bill
+2024-05-03 | Income | Salary | 2609.02 | Salary credited for May
+2024-05-03 | Expense | Entertainment | 395.19 | Concert ticket for live band
+2024-05-03 | Expense | Groceries | 187.45 | Cereal and breakfast items
+2024-05-04 | Income | Investments | 437.36 | ETF dividend credited
+2024-05-04 | Income | Business Profits | 421.67 | Dropshipping profits
+2024-05-04 | Expense | Dining Out | 57.68 | Food delivery from Uber Eats
+2024-05-06 | Expense | Entertainment | 71.38 | Bookstore purchase of novels
+2024-05-06 | Income | Freelance | 2415.23 | Content writing fee transferred
+2024-05-06 | Expense | Rent & Utilities | 1744.05 | Landline phone bill
+2024-05-06 | Expense | Groceries | 95.3 | Snacks and beverages
+2024-05-07 | Income | Salary | 2784.37 | Monthly paycheck from company
+2024-05-07 | Expense | Entertainment | 419.18 | Board game purchase
+2024-05-08 | Expense | Dining Out | 41.59 | Brunch with friends at bistro
+2024-05-08 | Expense | Entertainment | 148.69 | Dance class fee
+2024-05-08 | Income | Freelance | 815.55 | App development project income
+2024-05-08 | Income | Gifts & Donations | 546.47 | Anniversary gift from parents
+2024-05-08 | Expense | Groceries | 204.86 | Meat and fish from butcher shop
+2024-05-09 | Income | Gifts & Donations | 292.18 | Gift card redeemed
+2024-05-09 | Expense | Groceries | 65.5 | Frozen foods
+2024-05-09 | Income | Salary | 3286.03 | Quarterly incentive added
+2024-05-09 | Expense | Groceries | 279.16 | Supermarket shopping
+2024-05-10 | Expense | Rent & Utilities | 598.34 | Landline phone bill
+2024-05-10 | Expense | Rent & Utilities | 744.64 | Trash collection service
+2024-05-10 | Expense | Rent & Utilities | 1899.08 | Trash collection service
+2024-05-10 | Expense | Dining Out | 101.52 | Late night snacks at diner
+2024-05-12 | Expense | Entertainment | 44.22 | Monthly Netflix subscription
+2024-05-13 | Expense | Dining Out | 134.29 | Food delivery from Uber Eats
+2024-05-13 | Income | Investments | 1185.72 | Real estate investment return
+2024-05-14 | Expense | Dining Out | 76.6 | Ice cream from parlor
+2024-05-14 | Expense | Groceries | 285.59 | Organic produce from farmers market
+2024-05-14 | Expense | Entertainment | 104.18 | Amusement park entry fee
+2024-05-14 | Expense | Rent & Utilities | 993.68 | Monthly rent payment for apartment
+2024-05-15 | Expense | Entertainment | 288.5 | Amusement park entry fee
+2024-05-15 | Expense | Entertainment | 25.56 | Video game download
+2024-05-15 | Expense | Entertainment | 272.99 | Movie rental on streaming platform
+2024-05-15 | Expense | Entertainment | 141.86 | Amusement park entry fee
+2024-05-15 | Expense | Transport | 79.27 | Monthly metro pass
+2024-05-16 | Expense | Transport | 430.91 | Monthly metro pass
+2024-05-16 | Expense | Entertainment | 214.5 | Cinema tickets for latest movie
+2024-05-16 | Expense | Groceries | 67.99 | Pet food and supplies
+2024-05-17 | Expense | Dining Out | 129.15 | Desserts at pastry shop
+2024-05-17 | Expense | Groceries | 177.97 | Supermarket shopping
+2024-05-17 | Expense | Entertainment | 154.04 | Amusement park entry fee
+2024-05-18 | Expense | Entertainment | 138.67 | Music streaming subscription
+2024-05-18 | Expense | Transport | 454.91 | Train ticket to nearby city
+2024-05-18 | Income | Gifts & Donations | 684.61 | Charity donation from anonymous donor
+2024-05-18 | Expense | Rent & Utilities | 737.46 | Home insurance premium
+2024-05-18 | Income | Freelance | 1795.33 | Photography gig payment
+2024-05-20 | Expense | Dining Out | 76.95 | Desserts at pastry shop
+2024-05-20 | Expense | Rent & Utilities | 1495.59 | Monthly rent payment for apartment
+2024-05-20 | Expense | Dining Out | 137.79 | Ice cream from parlor
+2024-05-20 | Income | Freelance | 2001.82 | Freelance project payment from client
+2024-05-21 | Expense | Entertainment | 113.0 | Amusement park entry fee
+2024-05-21 | Expense | Transport | 372.26 | Bike rental fee
+2024-05-21 | Expense | Rent & Utilities | 379.7 | Trash collection service
+2024-05-21 | Expense | Entertainment | 194.97 | Amusement park entry fee
+2024-05-21 | Income | Salary | 3206.69 | Commission on sales received
+2024-05-21 | Expense | Dining Out | 78.68 | Pizza night with family
+2024-05-22 | Expense | Dining Out | 76.84 | Brunch with friends at bistro
+2024-05-22 | Income | Business Profits | 214.62 | Dropshipping profits
+2024-05-23 | Expense | Rent & Utilities | 1091.17 | Water bill settlement
+2024-05-23 | Expense | Groceries | 162.91 | Supermarket shopping
+2024-05-23 | Expense | Transport | 236.16 | Taxi ride to office
+2024-05-23 | Expense | Entertainment | 487.55 | Cinema tickets for latest movie
+2024-05-24 | Income | Freelance | 1844.27 | Video editing freelance earnings
+2024-05-24 | Income | Gifts & Donations | 1158.65 | Holiday cash gift from relatives
+2024-05-24 | Income | Salary | 3197.26 | Monthly paycheck from company
+2024-05-24 | Income | Investments | 439.63 | Mutual fund return payout
+2024-05-24 | Expense | Entertainment | 59.39 | Video game download
+2024-05-24 | Income | Business Profits | 1469.44 | Subscription service income
+2024-05-25 | Expense | Dining Out | 146.91 | Coffee at local cafe
+2024-05-25 | Expense | Rent & Utilities | 671.3 | Internet subscription fee
+2024-05-25 | Expense | Rent & Utilities | 1938.43 | Trash collection service
+2024-05-25 | Expense | Dining Out | 68.69 | Food delivery from Uber Eats
+2024-05-25 | Income | Salary | 3767.53 | End of year bonus received
+2024-05-25 | Income | Business Profits | 618.99 | Licensing fee for software
+2024-05-25 | Expense | Groceries | 196.6 | Weekly groceries restock
+2024-05-25 | Income | Gifts & Donations | 1400.42 | Holiday cash gift from relatives
+2024-05-26 | Expense | Groceries | 135.55 | Spices and condiments
+2024-05-26 | Expense | Groceries | 173.03 | Organic produce from farmers market
+2024-05-27 | Expense | Entertainment | 469.26 | Movie rental on streaming platform
+2024-05-27 | Expense | Entertainment | 292.76 | Concert ticket for live band
+2024-05-27 | Expense | Transport | 50.42 | Bus ticket for daily commute
+2024-05-27 | Expense | Entertainment | 470.76 | Concert ticket for live band
+2024-05-28 | Expense | Groceries | 170.43 | Purchased cleaning supplies
+2024-05-28 | Expense | Dining Out | 92.26 | Ice cream from parlor
+2024-05-28 | Expense | Dining Out | 89.22 | Late night snacks at diner
+2024-05-28 | Expense | Transport | 203.08 | Fuel refill at gas station
+2024-05-29 | Expense | Entertainment | 174.04 | Theater play ticket
+2024-05-29 | Expense | Dining Out | 136.95 | Street food snacks
+2024-05-29 | Expense | Groceries | 294.77 | Pet food and supplies
+2024-05-29 | Expense | Entertainment | 373.78 | Subscription to online magazine
+2024-05-30 | Income | Gifts & Donations | 425.11 | Birthday gift from family
+2024-05-30 | Income | Freelance | 2142.73 | Freelance project payment from client
+2024-05-30 | Expense | Groceries | 103.55 | Milk and bread from local store
+2024-05-30 | Income | Salary | 5950.95 | Commission on sales received
+2024-05-30 | Expense | Transport | 102.29 | Monthly metro pass
+2024-05-30 | Income | Salary | 2427.37 | Salary credited for May
+2024-05-30 | Income | Business Profits | 1440.13 | Subscription service income
+2024-05-31 | Expense | Entertainment | 269.36 | Dance class fee
+2024-05-31 | Income | Salary | 2355.11 | Salary credited for May
+2024-05-31 | Expense | Rent & Utilities | 1083.41 | Sewage services charge
+2024-05-31 | Expense | Rent & Utilities | 1983.4 | Internet subscription fee

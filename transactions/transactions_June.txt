@@ -1,0 +1,86 @@
+2024-06-01 | Expense | Rent & Utilities | 1050.19 | Monthly rent payment for apartment
+2024-06-01 | Expense | Rent & Utilities | 1979.86 | Mobile phone postpaid bill
+2024-06-01 | Income | Gifts & Donations | 522.31 | Loyalty program bonus
+2024-06-02 | Expense | Transport | 354.23 | Uber ride to airport
+2024-06-03 | Expense | Rent & Utilities | 458.26 | Property maintenance fee
+2024-06-03 | Expense | Transport | 344.79 | Taxi ride to office
+2024-06-03 | Expense | Groceries | 202.01 | Frozen foods
+2024-06-04 | Income | Gifts & Donations | 587.66 | Anniversary gift from parents
+2024-06-04 | Expense | Transport | 196.05 | Monthly metro pass
+2024-06-04 | Expense | Transport | 278.41 | Parking fee at mall
+2024-06-04 | Expense | Rent & Utilities | 533.12 | Heating system maintenance
+2024-06-05 | Expense | Dining Out | 56.51 | Romantic dinner at steakhouse
+2024-06-05 | Expense | Entertainment | 287.37 | Art museum entry ticket
+2024-06-05 | Expense | Transport | 215.9 | Car maintenance and service
+2024-06-05 | Expense | Entertainment | 181.71 | Art museum entry ticket
+2024-06-05 | Expense | Entertainment | 201.26 | Theater play ticket
+2024-06-06 | Income | Business Profits | 508.03 | Dropshipping profits
+2024-06-06 | Expense | Entertainment | 477.21 | Board game purchase
+2024-06-06 | Expense | Transport | 221.79 | Car maintenance and service
+2024-06-06 | Expense | Entertainment | 460.79 | Concert ticket for live band
+2024-06-06 | Expense | Rent & Utilities | 791.87 | Natural gas bill payment
+2024-06-07 | Income | Salary | 5235.32 | Performance bonus payout
+2024-06-08 | Expense | Rent & Utilities | 616.86 | Landline phone bill
+2024-06-09 | Expense | Entertainment | 483.47 | Music streaming subscription
+2024-06-10 | Expense | Dining Out | 38.12 | Pizza night with family
+2024-06-10 | Income | Investments | 1040.95 | Bond maturity payout
+2024-06-10 | Expense | Transport | 155.01 | Bike rental fee
+2024-06-10 | Income | Salary | 2682.67 | Salary credited for June
+2024-06-10 | Expense | Dining Out | 48.36 | Ice cream from parlor
+2024-06-11 | Income | Gifts & Donations | 1046.73 | Cashback reward from online store
+2024-06-11 | Expense | Rent & Utilities | 1740.18 | Electricity bill for January
+2024-06-11 | Expense | Transport | 327.64 | Uber ride to airport
+2024-06-12 | Income | Investments | 513.61 | Stock profit realized on sale
+2024-06-12 | Expense | Entertainment | 453.34 | Concert ticket for live band
+2024-06-12 | Expense | Rent & Utilities | 557.34 | Mobile phone postpaid bill
+2024-06-13 | Income | Investments | 568.63 | Interest from savings account
+2024-06-13 | Expense | Dining Out | 37.97 | Business lunch with client
+2024-06-13 | Expense | Dining Out | 131.75 | Street food snacks
+2024-06-13 | Expense | Rent & Utilities | 1473.74 | Water bill settlement
+2024-06-14 | Expense | Transport | 122.67 | Motorbike fuel refill
+2024-06-14 | Expense | Rent & Utilities | 1801.27 | Home insurance premium
+2024-06-14 | Expense | Rent & Utilities | 524.25 | Landline phone bill
+2024-06-14 | Expense | Rent & Utilities | 301.85 | Home insurance premium
+2024-06-15 | Expense | Entertainment | 183.93 | Monthly Netflix subscription
+2024-06-15 | Expense | Entertainment | 47.58 | Cinema tickets for latest movie
+2024-06-15 | Expense | Rent & Utilities | 1918.13 | Home insurance premium
+2024-06-15 | Expense | Rent & Utilities | 1142.03 | Property maintenance fee
+2024-06-15 | Income | Salary | 5153.5 | Performance bonus payout
+2024-06-16 | Expense | Entertainment | 359.42 | Board game purchase
+2024-06-16 | Expense | Entertainment | 401.0 | Bookstore purchase of novels
+2024-06-16 | Expense | Rent & Utilities | 874.18 | TV cable subscription
+2024-06-17 | Expense | Rent & Utilities | 675.75 | Trash collection service
+2024-06-17 | Expense | Entertainment | 293.78 | Theater play ticket
+2024-06-18 | Expense | Dining Out | 108.23 | Food delivery from Uber Eats
+2024-06-18 | Expense | Dining Out | 25.31 | Brunch with friends at bistro
+2024-06-18 | Expense | Transport | 105.74 | Cab fare after night out
+2024-06-18 | Income | Salary | 4735.41 | Commission on sales received
+2024-06-18 | Expense | Rent & Utilities | 784.37 | Sewage services charge
+2024-06-19 | Expense | Transport | 150.95 | Bike rental fee
+2024-06-19 | Expense | Groceries | 80.14 | Snacks and beverages
+2024-06-20 | Expense | Entertainment | 70.4 | Music streaming subscription
+2024-06-20 | Expense | Rent & Utilities | 447.37 | Electricity bill for January
+2024-06-20 | Expense | Rent & Utilities | 802.42 | Monthly rent payment for apartment
+2024-06-21 | Expense | Transport | 89.76 | Bus ticket for daily commute
+2024-06-21 | Expense | Entertainment | 380.05 | Subscription to online magazine
+2024-06-21 | Expense | Rent & Utilities | 1634.24 | Internet subscription fee
+2024-06-21 | Expense | Rent & Utilities | 724.45 | Sewage services charge
+2024-06-22 | Expense | Transport | 312.15 | Tire replacement
+2024-06-22 | Income | Business Profits | 1136.69 | Subscription service income
+2024-06-23 | Expense | Rent & Utilities | 1713.18 | Electricity bill for January
+2024-06-23 | Expense | Groceries | 127.26 | Milk and bread from local store
+2024-06-24 | Expense | Dining Out | 61.67 | Desserts at pastry shop
+2024-06-24 | Income | Gifts & Donations | 1076.2 | Wedding gift received
+2024-06-25 | Expense | Rent & Utilities | 1281.49 | Heating system maintenance
+2024-06-25 | Expense | Dining Out | 148.95 | Late night snacks at diner
+2024-06-25 | Expense | Transport | 395.19 | Car maintenance and service
+2024-06-26 | Expense | Entertainment | 305.0 | Karaoke night with friends
+2024-06-26 | Expense | Groceries | 116.06 | Milk and bread from local store
+2024-06-26 | Expense | Rent & Utilities | 1763.78 | TV cable subscription
+2024-06-26 | Expense | Transport | 151.33 | Oil change at auto center
+2024-06-26 | Expense | Transport | 223.38 | Uber ride to airport
+2024-06-27 | Income | Gifts & Donations | 1042.17 | Charity donation from anonymous donor
+2024-06-27 | Expense | Transport | 496.58 | Monthly metro pass
+2024-06-28 | Expense | Entertainment | 110.58 | Monthly Netflix subscription
+2024-06-28 | Expense | Transport | 341.69 | Bike rental fee
+2024-06-28 | Expense | Dining Out | 124.13 | Coffee at local cafe
